@@ -10,3 +10,5 @@ Il s'agit ici d'une application mobil de Quizz avec quelques questions de cuultu
 ![](app/src/images/Screen4.jpg?raw=true "Screen 4")
 ![](app/src/images/Screen5.jpg?raw=true "Screen 5")
 
+## Cloner ce projet ?
+Pour obtenir ce projet, lancer la commande `git clone https://github.com/Olatundji22/Quizz-app-Mobil.git` 
