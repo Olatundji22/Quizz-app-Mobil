@@ -1,3 +1,9 @@
 # Quizz-app-Mobil
 
-Il s'agit ici d'une application mobil de Quizz realisé avec Android Studios.  (projet personnel)
+Il s'agit ici d'une application mobil de Quizz avec quelques questions de cuulture générale realisé avec Android Studios.  (projet personnel)
+
+## Aperçu
+
+![](app/src/images/Screen1.jpg?raw=true "Screen 1")
+
+
